@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Chaitanya Kolliboyina"
-  avatar           : "profile.png"
+  avatar           : "Profile_pic2.jpg"
   bio              : "Passionate about AI, DL, NLP, & Computer Vision"
   location         : "India"
   employer         :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "chaitanya-kolliboyina"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/chaitanya-kvs/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "C_Kolliboyina"
   vine             :
   weibo            :
   xing             :
