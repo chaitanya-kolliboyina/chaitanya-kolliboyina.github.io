@@ -11,6 +11,6 @@ citation: 'Venkata Sai Chaitanya kolliboyina, et al. Cyclone Intensity Estimatio
 ---
 This paper is about estimating cyclone intensity with pre trained deep learning models.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://chaitanya-kolliboyina.github.io/files/Cyclone intensity using pre trained DL.pdf)
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
