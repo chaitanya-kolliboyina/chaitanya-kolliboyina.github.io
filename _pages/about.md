@@ -13,3 +13,7 @@ redirect_from:
 📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia.
 
 🌐 I am excited about the prospect of collaborating on innovative projects and contributing to the ever-evolving field of machine learning. Feel free to connect with me if you are interested in exploring potential collaborations, discussing industry trends, or sharing insights in the exciting domains of deep learning, Machine learning,Data science , CV and NLP
+
+### 📚 Teaching and Community Contributions
+
+To further contribute to the Machine Learning community, I have a [Medium](https://medium.com/@C_Kolliboyina) channel and [Newsletter](https://mlmarvels.beehiiv.com/) where I publish educational Machine Learning content.
