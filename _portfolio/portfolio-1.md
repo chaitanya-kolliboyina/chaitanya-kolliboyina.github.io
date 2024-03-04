@@ -1,6 +1,6 @@
 ---
 title: "Medicinal Leaf Classification with Transfer Learning and fine tuning "
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/port.jpeg'>"
+excerpt: Implementation of Fine tuning pre-trained models along with data parallelism"<br/><img src='/images/port.jpeg'>"
 collection: portfolio
 ---
 
